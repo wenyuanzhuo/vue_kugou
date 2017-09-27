@@ -1,6 +1,6 @@
 # vue_kugou
 
-## 用(vue2.0+vuex+vue-router+axios) 酷狗音乐webApp
+## (vue2.0+vuex+vue-router+axios) 酷狗音乐webApp
 
 ## Build Setup
 
