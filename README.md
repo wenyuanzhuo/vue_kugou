@@ -1,6 +1,6 @@
 # vue_kugou
 
-> A Vue.js project
+## 用(vue2.0+vuex+vue-router+axios) 酷狗音乐webApp
 
 ## Build Setup
 
@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+
