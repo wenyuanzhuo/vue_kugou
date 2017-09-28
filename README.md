@@ -18,7 +18,11 @@ npm run build
 npm run build --report
 ```
 
-
-
+##项目截图
+----
+![](https://github.com/wenyuanzhuo/vue_kugou/raw/master/kugou2.png)<br><br>
+![](https://github.com/wenyuanzhuo/vue_kugou/raw/master/kugou3.png)<br><br>
+![](https://github.com/wenyuanzhuo/vue_kugou/raw/master/kugou4.png)<br><br>
+![](https://github.com/wenyuanzhuo/vue_kugou/raw/master/kugou1.png)<br><br>
 
 
